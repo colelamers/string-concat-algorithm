@@ -1,6 +1,4 @@
-# string-concat-algorithm
-# Multi-Metric Text Similarity Evaluation
-# for Contextual Sentence Reconstruction
+# Multi-Metric Text Similarity Evaluation for Contextual Sentence Reconstruction
 Cole Lamers
 University of Wisconsin – Whitewater
 Submitted in Partial Fulfillment
