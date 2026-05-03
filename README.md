@@ -24,9 +24,11 @@ appending process that is fast adaptable accurate and deterministic without the 
 of a full-scale LLM.
 
 # Dependencies required for capturing audio to text, feeding to llm, and then responding back with audio
-[Whisper.cpp](https://github.com/ggml-org/whisper.cpp)
-* Whisper.cpp is required if you intend on taking text input to parse with the algorithm.
-[llama.cpp](https://github.com/ggml-org/llama.cpp)
-* llama.cpp is only used if you intend on feeding text from your whisper.cpp input to the llm.
-[Piper](https://github.com/OHF-Voice/piper1-gpl)
-* Piper is only required if you intend on converting text to speech.
+* [Whisper.cpp](https://github.com/ggml-org/whisper.cpp)
+> Whisper.cpp is required if you intend on taking text input to parse with the algorithm.
+
+* [llama.cpp](https://github.com/ggml-org/llama.cpp)
+> llama.cpp is only used if you intend on feeding text from your whisper.cpp input to the llm.
+
+* [Piper](https://github.com/OHF-Voice/piper1-gpl)
+> Piper is only required if you intend on converting text to speech.
