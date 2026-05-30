@@ -1,3 +1,5 @@
+[Link to Video Presentation](https://www.youtube.com/watch?v=CHCZ0BLWR5Y)
+
 # Multi-Metric Text Similarity Evaluation for Contextual Sentence Reconstruction
 Cole Lamers
 University of Wisconsin – Whitewater
